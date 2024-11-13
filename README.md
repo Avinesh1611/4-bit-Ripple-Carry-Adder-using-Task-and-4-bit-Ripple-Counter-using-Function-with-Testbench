@@ -143,7 +143,7 @@ end
 endmodule
 ```
 # OUTPUT
-
+![image](https://github.com/user-attachments/assets/05aded9e-bbd3-4a57-8e97-019dceecc658)
 
 
 # CONCLUSION
